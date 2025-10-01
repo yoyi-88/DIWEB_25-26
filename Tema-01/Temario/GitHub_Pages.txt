@@ -1,0 +1,1 @@
+entra al repositorio, ajustes, pages, en default branch selecciona main, guarda.
