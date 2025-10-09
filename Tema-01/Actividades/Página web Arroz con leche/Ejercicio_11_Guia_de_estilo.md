@@ -1,3 +1,9 @@
+---
+layout: default
+title: Guía de estilo arroz con leche
+---
+
+
 # Ejercicio 11: Guía de estilo
 
 **Yoël Gómez Benítez - 2º DAW  
