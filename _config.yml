@@ -1,1 +1,7 @@
-theme: jekyll-theme-minimal
+title: "Blog de Yoyi"
+description: "Mi blog personal sobre desarrollo web"
+author: "Yoyi"
+theme: minima 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
