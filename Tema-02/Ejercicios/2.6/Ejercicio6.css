@@ -1,7 +1,21 @@
-h1 {
+#titulo {
     color: green;
+    font-size:150%;
 }
 
 p {
-    color: red;
+    color: blue;
+}
+
+.importante {
+    background-color: yellow;
+}
+
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+input[type="text"] {
+    border: 2px solid red;
 }
